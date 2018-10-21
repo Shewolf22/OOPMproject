@@ -1,3 +1,5 @@
+import java.util.Scanner;
+import java.util.concurrent.TimeUnit;
 public class DisplayText {
     public static void delayedPrint(int delay, String s) {
         try {
