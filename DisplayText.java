@@ -18,6 +18,13 @@ public static void main(String[] args) throws Exception
 	String k;
 	k="any string here...";
     delayedPrint(500,k);
-
+    displaytext();
    }
+
+static void displaytext()
+{
+System.out.println("---------------------------------------------------------------------------------------------------");
+System.out.println();
+}
+
    }
